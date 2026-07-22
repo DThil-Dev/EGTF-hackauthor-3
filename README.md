@@ -1,4 +1,4 @@
-# EGTF-hackauthor-3
+<h1 style="bold">EGTF-hackauthor-3</h1>
 A rebuild of The Easy Peasy Method by Hackauthor^2. New and improved content helping users destroy brainwashing.
 
 Documents required to read and make changes are .odt and .docx. I reccomend heavily using and sticking to the .odt to minimise any conflicts between windows and libreoffice. Any changes from hereon out are hopefully just grammar and punctuation, lets hope.
@@ -11,4 +11,4 @@ This book should contain no complex formatting depending on the way that LibreOf
 <h2>How do I edit this book to fit my needs?</h2>
 
 1. First download the .odt here.
-2. Then transfer
+2. Then transfer your downloas
