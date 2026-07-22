@@ -7,3 +7,8 @@ Please leave a comment under the issues tab for all grammar and punctuation and 
 Unlike the original EasyPeasy which was put together using BookDown I chose LibreOffice because I like having everything laid out in a neat ui with everything being accessible.
 
 This book should contain no complex formatting depending on the way that LibreOffice exports.
+
+<h2>How do I edit this book to fit my needs?</h2>
+
+1. First download the .odt here.
+2. Then transfer
